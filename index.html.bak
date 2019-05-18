@@ -4,9 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Kakuly's Offcial Site</title>
   </head>
-  <body style="    background-color: #282828;">
-    
-    <br>
+  <body style="     background-color: #282828;"> <br>
     <h1 style=" text-align: center;"><span style="color: white;"></span><span style="color: #cdcdcd;">Kakuly's
         Offcial Site<br>
       </span></h1>
@@ -16,6 +14,11 @@
     <p style="text-align: center;"><img src="icon.png" alt="" style="width: 95px; height: 95px;"></p>
     <p style="text-align: center;"></p>
     <p color="#ffffff" style="text-align: center;"></p>
-    <fieldset name="画像"><a href="%3Chr%20style=%22width:%20500px;%20color:%20white;%22%3E"></a><legend></legend></fieldset>
+    <fieldset name="画像"><legend></legend>
+      <div style="text-align: center;"><legend></legend><span style="color: #cdcdbf;"><span></span>こ
+          のホームページうんちっちですので、ウニからカニへ変わると思われる時を探しましょう。</span><br>
+        <span style="color: #cdcdbf;">そして共に旅に出ましょう。そうすれば何かを掴める、掴むことのできるヒントをあなたは得
+          ることができます。</span></div>
+      <legend></legend><legend></legend></fieldset>
   </body>
 </html>
