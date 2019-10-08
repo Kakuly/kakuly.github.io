@@ -13,14 +13,7 @@
         style="color: #cdcdcd;">かっ くかくのホームページ。</span></h5>
     <hr style="width: 500px; color: white;">
     <p style="text-align: center;"><img src="icon.png" alt="" style="width: 95px; height: 95px;"></p>
-    <h2 style="  text-align: center;"><span style="color: #cdcdbf;">初めての方へ</span></h2>
-    <div style="text-align: center;"><span style="color: #cdcdbf;">このホームページでは、主に
-        『映像・音楽依頼について』や、</span></div>
-    <div style="text-align: center;"><span style="color: #cdcdbf;">『</span><span
-        style="color: #cdcdbf;"><span style="color: #cdcdbf;">僕が作成した</span>作品』など
-        を載せています。<br>
-      </span></div>
-    <div style="text-align: center;"><span style="color: #cdcdbf;"></span><br>
-    </div>
+    <p style="text-align: center;"><br>
+    </p>
   </body>
 </html>
